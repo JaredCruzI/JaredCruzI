@@ -1,8 +1,6 @@
 ### Hi there, i am Jared:)
 
-
-
-Here are some ideas to get you started:
+let me tell you about me:
 
 - 🔭 I’m currently studying in PFLC
 - 🌱 I’m currently learning web development with HTML, CSS, JavaScript, PHP and some frameworks like Angular, flask and CSS pre-processors like SASS and LESS
